@@ -1,1 +1,2 @@
-#!/bin/bash echo "CR103 pushed by ivan medel"
+#!/bin/bash
+echo "CR103 pushed by ivan medel"
